@@ -1,0 +1,8 @@
+{
+  "name": "Trading Journal",
+  "description": "Plan, log, track, and analyze your trades, setups, emotions, and risk-reward ratios with local Room database persistence and cognitive AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
